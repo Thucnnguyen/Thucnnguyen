@@ -27,12 +27,12 @@
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center"> Where to find me </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="https:https://www.facebook.com/thucnguyen000/" target="blank">
+  <a href="facebook.com/thucnguyen000/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
 
