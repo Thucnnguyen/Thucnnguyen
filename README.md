@@ -35,7 +35,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
 
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
+  <a href="mailto:ntthuc321@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
   </a>
 </div>
