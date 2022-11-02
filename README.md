@@ -3,7 +3,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-
+<div align="center"> 
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=Microsoft SQL Server&logoColor=#CC2927" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
@@ -12,6 +12,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
+</div>
 
 
 
