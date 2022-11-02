@@ -32,8 +32,8 @@
 <!-- https://icons8.com -->
 <div align="center">
   
-  <a href="facebook.com/thucnguyen000/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://www.facebook.com/thucnguyen000/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/e349b8dac459834a7f18d231a0bdc77b9742e326a1e7c38192d8dd1be944e270/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f66616365626f6f6b2d6e65772e706e67" alt="trungquandev-facebook" data-canonical-src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" style="max-width: 100%;">
   </a>
 
   <a href="mailto:ntthuc321@gmail.com" target="top">
